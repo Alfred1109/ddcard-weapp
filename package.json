@@ -48,15 +48,16 @@
     "vuex": "^3.0.0"
   },
   "devDependencies": {
-    "@types/webpack-env": "^1.13.6",
-    "@tarojs/mini-runner": "3.2.8",
-    "@tarojs/webpack-runner": "3.2.8",
     "@babel/core": "^7.8.0",
+    "@tarojs/mini-runner": "3.2.8",
+    "@tarojs/plugin-platform-weapp": "^4.0.7",
+    "@tarojs/webpack-runner": "3.2.8",
+    "@types/webpack-env": "^1.13.6",
     "babel-preset-taro": "3.2.8",
-    "vue-loader": "^15.9.2",
-    "eslint-plugin-vue": "^6.x",
-    "eslint-config-taro": "3.2.8",
     "eslint": "^6.8.0",
-    "stylelint": "9.3.0"
+    "eslint-config-taro": "3.2.8",
+    "eslint-plugin-vue": "^6.x",
+    "stylelint": "9.3.0",
+    "vue-loader": "^15.9.2"
   }
 }
